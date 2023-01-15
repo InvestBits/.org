@@ -1,0 +1,82 @@
+/* General */
+.head {
+    text-align: center;
+    color: white;
+}
+.logo{
+    height: 60px;
+    /* width: 90px; */
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    color: #fff;
+    position: relative;
+    top: 1.5rem;
+}
+
+.loadimg {
+    height: 10rem;
+}
+
+
+/* Navbar */
+.navbar {
+    border-top: 1px solid black;
+    padding: 10px;
+    margin-right: 0px;
+    
+}
+
+
+/* Home page */
+.home h4 {
+    font-family: 'cursive';
+}
+
+.home a {
+    text-decoration: none;
+}
+
+.home h4:hover {
+    color: red;
+}
+
+/* .disabled{
+opacity: 0.9;
+} */
+
+
+
+/* Inputs */
+footer{
+    background-color: silver;
+}
+
+/* Error message */
+.error {
+    background: rgb(245, 155, 155);
+    color: red;
+    margin-top: 18px;
+    border: 2px solid red;
+    padding: 5px;
+    max-width: 40%;
+}
+
+
+/* Single article/blog page */
+.single_article h2 {
+    color: rgb(79, 79, 243);
+}
+
+.single_article b {
+    color: rgb(79, 79, 243);
+}
+
+.single_article a {
+    text-decoration: none;
+
+}
